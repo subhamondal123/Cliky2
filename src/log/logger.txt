@@ -1,0 +1,35 @@
+### All the main screens are in the "src/screes" path
+### For all main screen we use class components.
+### Splash screen
+    1. (define here)
+
+### Login
+    1. (define here)
+
+
+#### Change the module section of "react-native-floating-action"
+   1. /node_modules/react-native-floating-action/src/FloatingActionItem.js change style
+        a.   textContainer: {
+                paddingHorizontal: 8,
+                // elevation: 5,
+                // borderRadius: 0,  
+                height: 22
+            },
+            
+        b.   text: {
+                fontSize: 14,
+                lineHeight: 20,
+                fontFamily: FontFamily.FONTS.INTER.BOLD
+            },
+
+        node_modules/react-native-floating-action/src/FloatingAction.js change the style
+        c. overlay: {
+                position: "absolute",
+                bottom: 0,
+                left: 0,
+                right: 0,
+                top: 0,
+                elevation: 0,
+                zIndex: 0,
+                opacity:0.9 
+            },

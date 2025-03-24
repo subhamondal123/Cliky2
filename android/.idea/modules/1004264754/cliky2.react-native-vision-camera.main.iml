@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-3/753adf80d4bace21c59d95bac2181a4b/transformed/jetified-fbjni-0.3.0/prefab/modules/fbjni/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-3/753adf80d4bace21c59d95bac2181a4b/transformed/jetified-fbjni-0.3.0/prefab/modules/fbjni/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-3/86d85654eee355832e449c3fea1d7f19/transformed/jetified-react-android-0.71.7-debug/prefab/modules/jsi/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-3/86d85654eee355832e449c3fea1d7f19/transformed/jetified-react-android-0.71.7-debug/prefab/modules/jsi/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-3/86d85654eee355832e449c3fea1d7f19/transformed/jetified-react-android-0.71.7-debug/prefab/modules/reactnativejni/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-3/86d85654eee355832e449c3fea1d7f19/transformed/jetified-react-android-0.71.7-debug/prefab/modules/reactnativejni/include" type="native-header-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-vision-camera/cpp">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-vision-camera/cpp" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native/ReactAndroid/src/main/jni/react/turbomodule">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native/ReactAndroid/src/main/jni/react/turbomodule" type="native-header-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native/ReactCommon">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native/ReactCommon" type="native-header-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native/ReactCommon/callinvoker" type="native-header-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-vision-camera/android/src/main" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-vision-camera/android/src/main/cpp" type="native-Source-root" />
+    </content>
+  </component>
+</module>
